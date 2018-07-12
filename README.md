@@ -1,6 +1,8 @@
 # ForceAtlas2
 Realization of ForceAtlas2 Layout using javascripts<br>
 
+**Remark: Just a realization of ForceAtlas2's determination of nodes' positions**
+
 discription of ForceAtlas2 layout: [ForceAtlas2](https://ninaann.github.io/2018/07/06/ForceAtlas2/),
 functions that **unrealised**: adapting local speed and adating global speed.
 Instead, when approach convergence, a parameter called *energy* is added to evaluate the total energy of the layout, 
